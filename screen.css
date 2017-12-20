@@ -29,6 +29,15 @@ height:auto;
 margin: 0 auto;
 }
 
+div#motto {
+    font-size: 250px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: #ffa50073;
+    text-shadow:  2px 2px #ff0000cf;
+}
 
 #header
 {
